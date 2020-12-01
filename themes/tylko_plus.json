@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "GoDark+ (default dark)",
-	"include": "./dark_vs.json",
+	"name": "Tylko +",
+	"include": "./tylko_vs.json",
 	"tokenColors": [
 		{
 			"name": "Function declarations",

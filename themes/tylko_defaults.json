@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "GoDark Default Colors",
+	"name": "Tylko Default",
 	"colors": {
 		"editor.background": "#1E1E1E",
 		"editor.foreground": "#D4D4D4",

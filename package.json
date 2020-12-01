@@ -1,9 +1,9 @@
 {
-    "name": "govscodetheme",
-    "displayName": "GoDark+",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "gautier",
+    "name": "tylko",
+    "displayName": "tylko",
+    "description": "Custom theme for vs code",
+    "version": "1.0.0",
+    "publisher": "Gautier MOREL",
     "engines": {
         "vscode": "^1.14.0"
     },
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "GoDark+",
+                "label": "tylko",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark_plus.json"
+                "path": "./themes/tylko_plus.json"
             }
         ]
     }
