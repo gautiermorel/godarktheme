@@ -1,9 +1,10 @@
 {
     "name": "tylko",
-    "displayName": "tylko",
+    "displayName": "Tylko",
     "description": "Custom theme for vs code",
     "version": "1.0.0",
-    "publisher": "Gautier MOREL",
+	"publisher": "Gautier MOREL",
+	"icon": "./icon.png",
     "engines": {
         "vscode": "^1.14.0"
     },
