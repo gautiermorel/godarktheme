@@ -2,7 +2,7 @@
 
 ### VS CODE CUSTOM THEME
 
-![Preview](https://github.com/gautiermorel/tylco/raw/master/preview.png)
+![Preview](https://raw.githubusercontent.com/gautiermorel/tylko/master/preview.png)
 
 
 * Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
